@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on making my 250 year old house more energy efficient thru smart integrations
+- 🌱 I’m currently learning ReactJS 
+- 👯 I’m looking to collaborate on AWS Related Security & Infrastruture Projects
+- 💬 Ask me about working at AWS
+
 <!--
 **gabrieljaquish/gabrieljaquish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
