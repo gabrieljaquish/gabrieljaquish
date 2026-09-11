@@ -1,22 +1,23 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on making my 250 year old house more energy efficient thru smart integrations
-- 🔭 I own and operate [Bridgeview Harbour Marina](https://bridgeviewharbour.com) on Lake Champlain in Port Henry, NY
-- 🌱 I’m currently learning ReactJS and TypeScript
-- 👯 I’m looking to collaborate on Small Business Management and Tooling
-- 💬 Ask me about working at AWS
+I work in cloud security at AWS and run a marina on Lake Champlain. Most of
+what I build here comes out of one of those two things.
 
-<!--
-**gabrieljaquish/gabrieljaquish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Building **Harbour Hub**, the software that runs
+  [Bridgeview Harbour Marina](https://bridgeviewharbour.com). Work orders,
+  equipment tracking, parts, booking integration.
+- 🤖 MCP servers for Harbour Hub and other tools as a way to learn agent
+  security properly. Scoped credentials per tool, read and write split
+  apart, approval gates on anything that spends money.
+- 📞 We run an AI phone agent at the marina that takes real customer calls.
+  I'm writing up the threat model for it. Customer text going straight into
+  a model's context turns out to be a problem.
+- 🏚️ Making a 1771 Dutch Colonial more energy efficient with sensors and
+  smart integrations. MCPs for energy and water usage questions.
+- 🌱 Currently digging into MCP, LangGraph, and guardrail frameworks.
+- 💬 Ask me about AWS security architecture, or about running a marina.
 
-Here are some ideas to get you started:
+14 years in security engineering and architecture. CISSP. Python, TypeScript,
+CDK, CloudFormation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[gabrieljaquish.com](https://gabrieljaquish.com)
